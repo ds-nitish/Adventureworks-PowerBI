@@ -9,7 +9,7 @@ To use the Sports Company Dashboard, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone [repository URL]
+git clone https://github.com/ds-nitish/Adventureworks-PowerBI.git
 ```
 
 2. Open the project in Microsoft Power BI.
